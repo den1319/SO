@@ -1,0 +1,46 @@
+C:\Users\dgcha\OneDrive\Navegador WEB\obj\Debug\NavegadorWEB.csprojAssemblyReference.cache
+C:\Users\dgcha\OneDrive\Navegador WEB\obj\Debug\NavegadorWEB.Forms.Contenedor.resources
+C:\Users\dgcha\OneDrive\Navegador WEB\obj\Debug\NavegadorWEB.Forms.HistorialMenu.resources
+C:\Users\dgcha\OneDrive\Navegador WEB\obj\Debug\NavegadorWEB.Forms.Ventana.resources
+C:\Users\dgcha\OneDrive\Navegador WEB\obj\Debug\Navegador_WEB.Properties.Resources.resources
+C:\Users\dgcha\OneDrive\Navegador WEB\obj\Debug\NavegadorWEB.csproj.GenerateResource.cache
+C:\Users\dgcha\OneDrive\Navegador WEB\obj\Debug\Navegador WEB.exe
+C:\Users\dgcha\OneDrive\Navegador WEB\obj\Debug\Navegador WEB.pdb
+C:\Users\dgcha\OneDrive\Navegador WEB\bin\Debug\Navegador WEB.exe.config
+C:\Users\dgcha\OneDrive\Navegador WEB\bin\Debug\Navegador WEB.exe
+C:\Users\dgcha\OneDrive\Navegador WEB\bin\Debug\Navegador WEB.pdb
+C:\Users\dgcha\Documents\GitHub\NavegadorWEB\Navegador WEB\bin\Debug\Navegador WEB.exe.config
+C:\Users\dgcha\Documents\GitHub\NavegadorWEB\Navegador WEB\bin\Debug\Navegador WEB.exe
+C:\Users\dgcha\Documents\GitHub\NavegadorWEB\Navegador WEB\bin\Debug\Navegador WEB.pdb
+C:\Users\dgcha\Documents\GitHub\NavegadorWEB\Navegador WEB\obj\Debug\NavegadorWEB.csprojAssemblyReference.cache
+C:\Users\dgcha\Documents\GitHub\NavegadorWEB\Navegador WEB\obj\Debug\NavegadorWEB.Forms.Contenedor.resources
+C:\Users\dgcha\Documents\GitHub\NavegadorWEB\Navegador WEB\obj\Debug\NavegadorWEB.Forms.HistorialMenu.resources
+C:\Users\dgcha\Documents\GitHub\NavegadorWEB\Navegador WEB\obj\Debug\NavegadorWEB.Forms.Ventana.resources
+C:\Users\dgcha\Documents\GitHub\NavegadorWEB\Navegador WEB\obj\Debug\Navegador_WEB.Properties.Resources.resources
+C:\Users\dgcha\Documents\GitHub\NavegadorWEB\Navegador WEB\obj\Debug\NavegadorWEB.csproj.GenerateResource.cache
+C:\Users\dgcha\Documents\GitHub\NavegadorWEB\Navegador WEB\obj\Debug\Navegador WEB.exe
+C:\Users\dgcha\Documents\GitHub\NavegadorWEB\Navegador WEB\obj\Debug\Navegador WEB.pdb
+C:\Users\gera1\Documents\GitHub\NavegadorWEB\Navegador WEB\bin\Debug\Navegador WEB.exe.config
+C:\Users\gera1\Documents\GitHub\NavegadorWEB\Navegador WEB\bin\Debug\Navegador WEB.exe
+C:\Users\gera1\Documents\GitHub\NavegadorWEB\Navegador WEB\bin\Debug\Navegador WEB.pdb
+C:\Users\gera1\Documents\GitHub\NavegadorWEB\Navegador WEB\obj\Debug\NavegadorWEB.csprojAssemblyReference.cache
+C:\Users\gera1\Documents\GitHub\NavegadorWEB\Navegador WEB\obj\Debug\NavegadorWEB.Forms.Contenedor.resources
+C:\Users\gera1\Documents\GitHub\NavegadorWEB\Navegador WEB\obj\Debug\NavegadorWEB.Forms.HistorialMenu.resources
+C:\Users\gera1\Documents\GitHub\NavegadorWEB\Navegador WEB\obj\Debug\NavegadorWEB.Forms.Ventana.resources
+C:\Users\gera1\Documents\GitHub\NavegadorWEB\Navegador WEB\obj\Debug\Navegador_WEB.Properties.Resources.resources
+C:\Users\gera1\Documents\GitHub\NavegadorWEB\Navegador WEB\obj\Debug\NavegadorWEB.csproj.GenerateResource.cache
+C:\Users\gera1\Documents\GitHub\NavegadorWEB\Navegador WEB\obj\Debug\NavegadorWEB.csproj.CoreCompileInputs.cache
+C:\Users\gera1\Documents\GitHub\NavegadorWEB\Navegador WEB\obj\Debug\Navegador WEB.exe
+C:\Users\gera1\Documents\GitHub\NavegadorWEB\Navegador WEB\obj\Debug\Navegador WEB.pdb
+C:\Users\gera1\Desktop\Navegador WEB\bin\Debug\Navegador WEB.exe.config
+C:\Users\gera1\Desktop\Navegador WEB\bin\Debug\Navegador WEB.exe
+C:\Users\gera1\Desktop\Navegador WEB\bin\Debug\Navegador WEB.pdb
+C:\Users\gera1\Desktop\Navegador WEB\obj\Debug\NavegadorWEB.csprojAssemblyReference.cache
+C:\Users\gera1\Desktop\Navegador WEB\obj\Debug\NavegadorWEB.Forms.Contenedor.resources
+C:\Users\gera1\Desktop\Navegador WEB\obj\Debug\NavegadorWEB.Forms.HistorialMenu.resources
+C:\Users\gera1\Desktop\Navegador WEB\obj\Debug\NavegadorWEB.Forms.Ventana.resources
+C:\Users\gera1\Desktop\Navegador WEB\obj\Debug\Navegador_WEB.Properties.Resources.resources
+C:\Users\gera1\Desktop\Navegador WEB\obj\Debug\NavegadorWEB.csproj.GenerateResource.cache
+C:\Users\gera1\Desktop\Navegador WEB\obj\Debug\NavegadorWEB.csproj.CoreCompileInputs.cache
+C:\Users\gera1\Desktop\Navegador WEB\obj\Debug\Navegador WEB.exe
+C:\Users\gera1\Desktop\Navegador WEB\obj\Debug\Navegador WEB.pdb

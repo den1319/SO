@@ -1,0 +1,20 @@
+C:\Users\dgcha\source\repos\Navegador WEB\bin\Debug\Navegador WEB.exe.config
+C:\Users\dgcha\source\repos\Navegador WEB\bin\Debug\Navegador WEB.exe
+C:\Users\dgcha\source\repos\Navegador WEB\bin\Debug\Navegador WEB.pdb
+C:\Users\dgcha\source\repos\Navegador WEB\obj\Debug\Navegador WEB.csprojAssemblyReference.cache
+C:\Users\dgcha\source\repos\Navegador WEB\obj\Debug\Navegador_WEB.Properties.Resources.resources
+C:\Users\dgcha\source\repos\Navegador WEB\obj\Debug\Navegador WEB.csproj.GenerateResource.cache
+C:\Users\dgcha\source\repos\Navegador WEB\obj\Debug\Navegador WEB.exe
+C:\Users\dgcha\source\repos\Navegador WEB\obj\Debug\Navegador WEB.pdb
+C:\Users\dgcha\source\repos\Navegador WEB\obj\Debug\Navegador_WEB.Forms.Inicio.resources
+C:\Users\dgcha\OneDrive\Navegador WEB\bin\Debug\Navegador WEB.exe.config
+C:\Users\dgcha\OneDrive\Navegador WEB\bin\Debug\Navegador WEB.exe
+C:\Users\dgcha\OneDrive\Navegador WEB\bin\Debug\Navegador WEB.pdb
+C:\Users\dgcha\OneDrive\Navegador WEB\obj\Debug\Navegador WEB.csprojAssemblyReference.cache
+C:\Users\dgcha\OneDrive\Navegador WEB\obj\Debug\Navegador_WEB.Properties.Resources.resources
+C:\Users\dgcha\OneDrive\Navegador WEB\obj\Debug\Navegador WEB.csproj.GenerateResource.cache
+C:\Users\dgcha\OneDrive\Navegador WEB\obj\Debug\Navegador WEB.exe
+C:\Users\dgcha\OneDrive\Navegador WEB\obj\Debug\Navegador WEB.pdb
+C:\Users\dgcha\OneDrive\Navegador WEB\obj\Debug\Navegador_WEB.Forms.Contenedor.resources
+C:\Users\dgcha\OneDrive\Navegador WEB\obj\Debug\Navegador_WEB.Forms.Ventana.resources
+C:\Users\dgcha\OneDrive\Navegador WEB\obj\Debug\Navegador_WEB.Forms.Historial.resources
